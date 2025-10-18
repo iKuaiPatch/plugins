@@ -1,0 +1,397 @@
+[
+    {
+        "name": "vidblock",
+        "alias": "视频拦截",
+        "manufacturer": "iKuai",
+        "version": "2.0.0",
+        "type": "external",
+        "description": "本插件可以实现屏蔽视频类网站或APP的视频流量而不影响点赞、评论、收藏等操作。",
+        "releasenotes": "",
+        "build": "202510180427",
+        "compatibility": [
+            "arm64",
+            "mipsle",
+            "x86_64"
+        ]
+    },
+    {
+        "name": "alist",
+        "alias": "Alist网盘",
+        "manufacturer": "iKuai",
+        "version": "2.0.0",
+        "type": "external",
+        "description": "‌AList是一个支持多种存储的文件列表程序，主要用于网盘聚合和管理。‌它可以将不同的网盘挂载在一起，方便用户统一管理文件。AList支持多种存储方式<br>官网地址：<a>https://alist.nn.ci/zh/</a>",
+        "releasenotes": "",
+        "build": "202510180427",
+        "compatibility": [
+            "arm64",
+            "mipsle",
+            "x86_64"
+        ]
+    },
+    {
+        "name": "adguard",
+        "alias": "AdGuardHome",
+        "manufacturer": "iKuai",
+        "version": "2.0.2",
+        "type": "external",
+        "description": "AdGuard Home是一个用于拦截广告和跟踪的 DNS 服务器，使您网络冲浪更快速，更安全，更便捷！<br>官网地址：<a>https://adguard.com/</a>",
+        "releasenotes": "更新说明：<br>更新AdGuardHome内核版本为v0.108.0-b.69。<br>修复有时开机不能自启动的问题。<br>更合理的检测机制，允许Clash禁用DNS劫持时与之搭配使用。<br>默认禁止外网访问。",
+        "build": "202510180427",
+        "compatibility": [
+            "arm64",
+            "mipsle",
+            "x86_64"
+        ]
+    },
+    {
+        "name": "uu",
+        "alias": "UU加速器",
+        "manufacturer": "iKuai",
+        "version": "2.0.0",
+        "type": "external",
+        "description": "网易UU网游加速器是由网易公司推出的游戏加速工具，于2013年3月正式上线。网易UU网游加速器提供游戏加速服务，支持3000余款手游加速，涵盖吃鸡类、MOBA类等多种游戏，可一键加速。",
+        "releasenotes": "",
+        "build": "202510180427",
+        "compatibility": [
+            "arm64",
+            "mipsle",
+            "x86_64"
+        ]
+    },
+    {
+        "name": "msd_lite",
+        "alias": "组播转换",
+        "manufacturer": "iKuai",
+        "version": "2.0.0",
+        "type": "external",
+        "description": "msd_lite - 轻量级多流守护进程。 这是一个轻量级的Multi Stream守护进程（msd）程序，用于通过HTTP在网络上组织IP电视流媒体。<br>详情查看：<a>https://github.com/rozhuk-im/msd_lite</a>",
+        "releasenotes": "",
+        "build": "202510180427",
+        "compatibility": [
+            "x86_64"
+        ]
+    },
+    {
+        "name": "ddnstod",
+        "alias": "DDNSTO",
+        "manufacturer": "iKuai",
+        "version": "2.0.0",
+        "type": "external",
+        "description": "‌DDNSTO是一种远程控制工具，支持多种设备和应用，无需公网IP，提供多种远程控制功能。。<br>地址：<a>https://www.kooldns.cn/</a>",
+        "releasenotes": "",
+        "build": "202510180427",
+        "compatibility": [
+            "arm64",
+            "mipsle",
+            "x86_64"
+        ]
+    },
+    {
+        "name": "vnts",
+        "alias": "VNT服务端",
+        "manufacturer": "iKuai",
+        "version": "1.0.2",
+        "type": "external",
+        "description": "VNT是一个简便高效的异地组网、内网穿透工具。<br>详情访问：<a>https://rustvnt.com/</a>",
+        "releasenotes": "",
+        "build": "202510180427",
+        "compatibility": [
+            "arm64",
+            "mipsle",
+            "x86_64"
+        ]
+    },
+    {
+        "name": "vnt",
+        "alias": "VNT客户端",
+        "manufacturer": "iKuai",
+        "version": "1.2.7",
+        "type": "external",
+        "description": "VNT是一个简便高效的异地组网、内网穿透工具。<br>详情访问：<a>https://rustvnt.com/</a>",
+        "releasenotes": "更新说明：<br>1、新增允许内网设备通过路由代理访问VNT网络功能。<br>2、本次更新为保留配置更新，可安全更新。",
+        "build": "202510180427",
+        "compatibility": [
+            "arm64",
+            "mipsle",
+            "x86_64"
+        ]
+    },
+    {
+        "name": "clash",
+        "alias": "Clash",
+        "manufacturer": "iKuai",
+        "version": "2.1.1",
+        "type": "external",
+        "description": "ShellClash <br>Github地址：<a>https://github.com/juewuy/ShellCrash</a>",
+        "releasenotes": "更新说明：<br>1、升级到最新1.9.2beta3版，同步升级内核为mihome1.19.3。<br>2、默认开启域名嗅探和禁用QUIC流量。",
+        "build": "202510180427",
+        "compatibility": [
+            "arm64",
+            "mipsle",
+            "x86_64"
+        ]
+    },
+    {
+        "name": "openp2p",
+        "alias": "OpenP2P",
+        "manufacturer": "iKuai",
+        "version": "2.0.0",
+        "type": "external",
+        "description": "OpenP2P是一个开源、免费、轻量级的P2P共享网络。你的设备将组成一个私有P2P网络，里面的设备可以直接访问其它成员，或者通过其它成员转发数据间接访问。 如果私有网络无法完成通信，将会到公有P2P网络寻找共享节点协助通信。 相比BT网络用来共享文件，OpenP2P网络用来共享带宽。<br>地址：<a>https://www.openp2p.cn/</a>",
+        "releasenotes": "",
+        "build": "202510180427",
+        "compatibility": [
+            "x86_64"
+        ]
+    },
+    {
+        "name": "nps",
+        "alias": "NPS服务端",
+        "manufacturer": "iKuai",
+        "version": "1.2.0",
+        "type": "external",
+        "description": "NPS (Nginx Proxy Switcher)是一种流行的工具，通常用于通过反向代理管理和切换不同的网络代理设置。它允许用户在同一台机器上管理不同的代理服务器，轻松切换和配置。</a>",
+        "releasenotes": "",
+        "build": "202510180427",
+        "compatibility": [
+            "arm64",
+            "mipsle",
+            "x86_64"
+        ]
+    },
+    {
+        "name": "vremote",
+        "alias": "VRemote服务",
+        "manufacturer": "iKuai",
+        "version": "1.2.5",
+        "type": "external",
+        "description": "VRemote服务配合相应的移动端App，可实现对路由器远程管理及网络共享等功能。",
+        "releasenotes": "更新说明：<br>新增：新增通过服务器代理访问设备管理页面的功能。",
+        "build": "202510180427",
+        "compatibility": [
+            "all"
+        ]
+    },
+    {
+        "name": "smartdns",
+        "alias": "SmartDNS",
+        "manufacturer": "iKuai",
+        "version": "2.0.0",
+        "type": "external",
+        "description": "smartdns - 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。<br>详情查看:<a>https://github.com/pymumu/smartdns</a>",
+        "releasenotes": "",
+        "build": "202510180427",
+        "compatibility": [
+            "arm64",
+            "mipsle",
+            "x86_64"
+        ]
+    },
+    {
+        "name": "lucky",
+        "alias": "Lucky(万吉)",
+        "manufacturer": "iKuai",
+        "version": "2.0.0",
+        "type": "external",
+        "description": "Lucky(万吉)是软硬路由公网神器,功能包括：ipv6/ipv4端口转发、反向代理、DDNS、WOL、ipv4 stun内网穿透、cron、ACME证书自动续签,阿里云盘、ftp、webdav、filebrowser等众多功能  <br>详情访问：<a>https://lucky666.cn/</a>",
+        "releasenotes": "更新说明：<br>更新内核版本到最新版本v2.17.6。",
+        "build": "202510180427",
+        "compatibility": [
+            "arm64",
+            "mipsle",
+            "x86_64"
+        ]
+    },
+    {
+        "name": "linkease",
+        "alias": "易有云",
+        "manufacturer": "iKuai",
+        "version": "1.1.9",
+        "type": "external",
+        "description": "易有云（Yiyouyun）是一个提供 企业级云服务 的平台，主要面向 企业、政府机构以及开发者，提供包括 云计算、云存储、云数据库、云安全 等一系列云服务解决方案。",
+        "releasenotes": "",
+        "build": "202510180427",
+        "compatibility": [
+            "x86_64"
+        ]
+    },
+    {
+        "name": "vlmcsd",
+        "alias": "Win激活",
+        "manufacturer": "iKuai",
+        "version": "1.1.9",
+        "type": "external",
+        "description": "KMS 激活是微软的一种 批量激活 技术，允许通过公司或组织的内部服务器进行操作系统和软件的激活，而不是依赖微软的官方激活服务器。",
+        "releasenotes": "",
+        "build": "202510180427",
+        "compatibility": [
+            "x86_64"
+        ]
+    },
+    {
+        "name": "frps",
+        "alias": "frps服务端",
+        "manufacturer": "iKuai",
+        "version": "1.2.0",
+        "type": "external",
+        "description": "frp 是一个专注于内网穿透的高性能的反向代理应用，支持 TCP、UDP、HTTP、HTTPS 等多种协议。可以将内网服务以安全、便捷的方式通过具有公网 IP 节点的中转暴露到公网。",
+        "releasenotes": "",
+        "build": "202510180427",
+        "compatibility": [
+            "arm64",
+            "mipsle",
+            "x86_64"
+        ]
+    },
+    {
+        "name": "frpc",
+        "alias": "frpc客户端",
+        "manufacturer": "iKuai",
+        "version": "1.2.0",
+        "type": "external",
+        "description": "FRPC 客户端用于连接 FRP 服务器（FRPS），将本地服务（如 Web 服务、SSH、RDP 等）暴露给外部网络。FRPC 会主动连接 FRPS，并通过隧道将内网的流量转发到 FRPS",
+        "releasenotes": "",
+        "build": "202510180428",
+        "compatibility": [
+            "arm64",
+            "mipsle",
+            "x86_64"
+        ]
+    },
+    {
+        "name": "syslog",
+        "alias": "日志推送",
+        "manufacturer": "iKuai",
+        "version": "1.0.1",
+        "type": "external",
+        "description": "本插件允许将本地日志上传至指定的syslog服务器，或兼容syslog协议的腾讯云、阿里云等云服务的日志收集器。",
+        "releasenotes": "",
+        "build": "202510180428",
+        "compatibility": [
+            "all"
+        ]
+    },
+    {
+        "name": "socat",
+        "alias": "IPV6转发",
+        "manufacturer": "iKuai",
+        "version": "1.1.9",
+        "type": "external",
+        "description": "Socat (Socket CAT) 是一个功能强大的网络工具，它可以在不同类型的套接字（sockets）之间进行数据转发和代理。本插件可以实现将IPV6的端口转发到IPV4的端口。",
+        "releasenotes": "",
+        "build": "202510180428",
+        "compatibility": [
+            "x86_64"
+        ]
+    },
+    {
+        "name": "docker",
+        "alias": "Docker容器",
+        "manufacturer": "iKuai",
+        "version": "1.1.22",
+        "type": "external",
+        "description": "‌通过Docker功能，用户可以打包应用以及依赖包到一个可移植的镜像中，然后发布到任何流行的 Linux或Windows 机器上，也可以实现虚拟化。容器是完全使用沙箱机制，相互之间不会有任何接口。",
+        "releasenotes": "",
+        "build": "202510180428",
+        "compatibility": [
+            "arm64",
+            "x86_64"
+        ]
+    },
+    {
+        "name": "zerotier",
+        "alias": "Zerotier",
+        "manufacturer": "iKuai",
+        "version": "1.1.9",
+        "type": "external",
+        "description": "ZeroTier 是一款开源的虚拟局域网（VPN）解决方案，旨在通过软件定义的网络技术让设备跨越不同的网络环境（如局域网、广域网、互联网等）进行无缝连接。<br>详情访问：<a>https://www.zerotier.com/</a>",
+        "releasenotes": "更新说明",
+        "build": "202510180429",
+        "compatibility": [
+            "x86_64"
+        ]
+    },
+    {
+        "name": "gecoos",
+        "alias": "集客AC",
+        "manufacturer": "iKuai",
+        "version": "2.0.1",
+        "type": "external",
+        "description": "GecoOS 集客 AC 是 GecoOS 操作系统中的一部分，主要用于提供集成管理的 无线局域网控制器(AC, Access Controller)。",
+        "releasenotes": "",
+        "build": "202510180429",
+        "compatibility": [
+            "x86_64"
+        ]
+    },
+    {
+        "name": "npc",
+        "alias": "NPC客户端",
+        "manufacturer": "iKuai",
+        "version": "1.1.9",
+        "type": "external",
+        "description": "NPC (Nginx Proxy Switcher)是一种流行的工具，通常用于通过反向代理管理和切换不同的网络代理设置。它允许用户在同一台机器上管理不同的代理服务器，轻松切换和配置。</a>",
+        "releasenotes": "",
+        "build": "202510180429",
+        "compatibility": [
+            "arm64",
+            "mipsle",
+            "x86_64"
+        ]
+    },
+    {
+        "name": "tailscale",
+        "alias": "Tailscale",
+        "manufacturer": "iKuai",
+        "version": "1.1.9",
+        "type": "external",
+        "description": "Tailscale 是一个基于 WireGuard 协议的 零配置 虚拟专用网络（VPN）解决方案，旨在为用户提供安全、简单和高效的网络连接。",
+        "releasenotes": "",
+        "build": "202510180429",
+        "compatibility": [
+            "x86_64"
+        ]
+    },
+    {
+        "name": "socks5",
+        "alias": "SK5分流",
+        "manufacturer": "iKuai",
+        "version": "4.2.0",
+        "type": "external",
+        "description": "Socks5 插件支持连接远程多个socks5服务器，同时支持本地设备进行分流",
+        "releasenotes": "更新说明：<br>1、底层技术升级，带机量及稳定性极大提升（高级版专属）。<br>2、支持订阅链接导入，全面支持绝大多数流行节点类型。<br>3、新增加DSN防泄露、防污染功能， 提升网络隔离安全性。<br>4、导入规则及节点时自动覆盖已有规则。<br>5、新增一键生成分流规则功能。",
+        "build": "202510180429",
+        "compatibility": [
+            "arm64",
+            "mipsle",
+            "x86_64"
+        ]
+    },
+    {
+        "name": "extapi",
+        "alias": "扩展API",
+        "manufacturer": "",
+        "version": "1.0.1",
+        "type": "external",
+        "description": "扩展API插件可以提供扩展API接口，用于外部系统调用来实现自动化功能。",
+        "releasenotes": "",
+        "build": "202510180429",
+        "compatibility": [
+            "all"
+        ]
+    },
+    {
+        "name": "pppoe_scan",
+        "alias": "PPPoE Scan",
+        "manufacturer": "iKuai",
+        "version": "1.0.0",
+        "type": "external",
+        "description": "扫描 PPPoE 服务器",
+        "releasenotes": "",
+        "build": "202510180429",
+        "compatibility": [
+            "x86_64"
+        ]
+    }
+]
